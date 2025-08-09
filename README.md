@@ -2,43 +2,34 @@
 src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 # [Project Name] 🎯
 ## Basic Details
-### Team Name: [Name]
+### Team Name: #void
 ### Team Members
 - Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: muhsina
+- Member 2: shahina 
 ### Project Description
-[2-3 lines about what your project does]
+online error detection quiz
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+fast detection of error
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+questions included to increase speed in coding
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- javascript,html,css
 ### Implementation
-For Software:
+For Software: used with html structure css for styling and background javascript for game logic
 # Installation
-[commands]
+# If your code is in a folder
+cd path/to/your/project
+code .
 # Run
-[commands]
+
 ### Project Documentation
 For Software:
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 05 55 32_d3fb31a5](https://github.com/user-attachments/assets/6ca5e44b-3637-49dd-aa85-99513664f276)
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -49,22 +40,16 @@ For Hardware:
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-![Build](Add photos of build process here)
-*Explain the build steps*
-![Final](Add photo of final product here)
-*Explain the final build*
+
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 # Additional Demos
 [Add any extra demo materials/links]
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- muhsina : idea generation 
+- shahina: coding
+  
 ---
 Made with ❤️ at TinkerHub Useless Projects
 ![Static
